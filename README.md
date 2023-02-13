@@ -6,6 +6,6 @@ Code pertama saya dalam belajar bahasa C
 ### How To Use?
 
 ```pkg install clang
-
-```
+clang tes.c -o tes
+./tes```
 
