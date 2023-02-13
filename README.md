@@ -5,7 +5,7 @@ Code pertama saya dalam belajar bahasa C
 
 ### How To Use?
 
-```pkg install clang```
-```clang tes.c -o tes```
+```pkg install clang``` <br>
+```clang tes.c -o tes``` <br>
 ```./tes```
 
